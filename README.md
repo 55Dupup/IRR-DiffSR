@@ -16,6 +16,8 @@ pip3 install lpips --index-url http://pypi.douban.com/simple --trusted-host pypi
 
 pip3 install torchsummary --index-url http://pypi.douban.com/simple --trusted-host pypi.douban.com
 ```
+## Download the Pre-trained Weights
+Download the pre-trained weights from [GoogleDrive](https://drive.google.com/drive/folders/1CudE2tyLIGN0XTEpU-rOB6c3e9OidQxx?usp=sharing) and move them to the corresponding path
 
 ## Start up
 To get a quick start:
