@@ -56,7 +56,10 @@ CUDA_VISIBLE_DEVICES=2 python3  DiffIR/test.py -opt options/test_IRR_DiffSR_S2_x
 
 ![](./figs/V-result-WHU-RS19.png)
 
+## 🪪 License
 
+This repository is licensed under the **Apache License 2.0**.
+You may freely use, modify, and distribute the code under the terms of the license.
 
 ## Contact
 Should you have any question, please contact 55dupup@gmail.com
